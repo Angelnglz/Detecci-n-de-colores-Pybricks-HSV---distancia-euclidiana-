@@ -1,1 +1,1 @@
-# Detecci-n-de-colores-Pybricks-HSV---distancia-euclidiana-
+# Deteccion-de-colores-Pybricks-HSV---distancia-euclidiana-
