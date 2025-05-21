@@ -51,7 +51,7 @@ def detectar_color(sensor):
     elif formula_plateado < formula_blanco and formula_plateado < formula_negro and formula_plateado < formula_verde:
         return "plateado"
     else:
-        return "no es ninguno"
+        return "no es ninguno" #si no es ninguno ajustar mejor los valores h,s,v que se esta usando de referencia
 
 
 #declarar las funciones sin ningun valor previamente ya que la vamos a utilizar como variables globales luego en de un ciclo, mas adelante en el programa para estructurar el rescue line
